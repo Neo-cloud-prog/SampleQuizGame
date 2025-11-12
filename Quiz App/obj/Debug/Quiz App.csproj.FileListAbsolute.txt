@@ -1,0 +1,22 @@
+C:\Users\user\source\repos\Quiz App\bin\Debug\Quiz App.exe.config
+C:\Users\user\source\repos\Quiz App\bin\Debug\Quiz App.exe
+C:\Users\user\source\repos\Quiz App\bin\Debug\Quiz App.pdb
+C:\Users\user\source\repos\Quiz App\obj\Debug\Quiz App.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Quiz App\obj\Debug\Quiz App.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Quiz App\obj\Debug\Quiz_App.Form1.resources
+C:\Users\user\source\repos\Quiz App\obj\Debug\Quiz_App.Properties.Resources.resources
+C:\Users\user\source\repos\Quiz App\obj\Debug\Quiz App.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Quiz App\obj\Debug\Quiz App.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Quiz App\obj\Debug\Quiz App.exe
+C:\Users\user\source\repos\Quiz App\obj\Debug\Quiz App.pdb
+C:\Users\user\source\repos\Quiz App\obj\Debug\Quiz_App.frmChart.resources
+C:\Users\hp\Documents\My Workspace\programming-workspace\Programming_Advice_Roadmap\14 - C# - Level 1\Quiz App\obj\Debug\Quiz App.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\My Workspace\programming-workspace\Programming_Advice_Roadmap\14 - C# - Level 1\Quiz App\obj\Debug\Quiz App.exe
+C:\Users\hp\Documents\My Workspace\programming-workspace\Programming_Advice_Roadmap\14 - C# - Level 1\Quiz App\obj\Debug\Quiz App.pdb
+C:\Users\hp\Documents\My Workspace\programming-workspace\Programming_Advice_Roadmap\14 - C# - Level 1\Quiz App\bin\Debug\Quiz App.exe.config
+C:\Users\hp\Documents\My Workspace\programming-workspace\Programming_Advice_Roadmap\14 - C# - Level 1\Quiz App\bin\Debug\Quiz App.exe
+C:\Users\hp\Documents\My Workspace\programming-workspace\Programming_Advice_Roadmap\14 - C# - Level 1\Quiz App\bin\Debug\Quiz App.pdb
+C:\Users\hp\Documents\My Workspace\programming-workspace\Programming_Advice_Roadmap\14 - C# - Level 1\Quiz App\obj\Debug\Quiz_App.Form1.resources
+C:\Users\hp\Documents\My Workspace\programming-workspace\Programming_Advice_Roadmap\14 - C# - Level 1\Quiz App\obj\Debug\Quiz_App.Properties.Resources.resources
+C:\Users\hp\Documents\My Workspace\programming-workspace\Programming_Advice_Roadmap\14 - C# - Level 1\Quiz App\obj\Debug\Quiz App.csproj.GenerateResource.cache
+C:\Users\hp\Documents\My Workspace\programming-workspace\Programming_Advice_Roadmap\14 - C# - Level 1\Quiz App\obj\Debug\Quiz App.csproj.CoreCompileInputs.cache
